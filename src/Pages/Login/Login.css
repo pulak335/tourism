@@ -1,0 +1,31 @@
+
+
+
+
+.cos-input input{
+    border: none;
+}
+
+label{
+    color: #F9A51A;
+}
+
+
+.box{
+    border: solid 1px gray;
+}
+
+.color-btn{
+    background-color: #F9A51A;
+}
+a{
+    text-decoration: none;
+    color: #F9A51A;
+}
+/* .c-box{
+    border: gray 1px solid;
+    color: black;
+    font-size: 20px;
+    font-family: Montserrat;
+    border-radius: 25px;
+} */
